@@ -1,0 +1,8 @@
+total 24
+drwxrwxr-x 2 priyam priyam 4096 Feb 23 16:25 .
+drwxrwxr-x 5 priyam priyam 4096 Feb 23 12:47 ..
+-rw-rw-r-- 1 priyam priyam  342 Feb 23 16:24 file.tct
+-rw-rw-r-- 1 priyam priyam    0 Feb 23 16:25 File.txt
+-rwxrwxr-x 1 priyam priyam  124 Feb 23 15:12 nestedfor.bash
+-rwxrwxr-x 1 priyam priyam  381 Feb 23 16:15 selectloop.bash
+-rwxrwxr-x 1 priyam priyam  275 Feb 23 12:48 veriblecheck.bash
